@@ -1,6 +1,6 @@
 package go 
 
-import package "fmt"
+import "fmt"
 func sayOkay() {
 	fmt.Println("Okay")
 }
